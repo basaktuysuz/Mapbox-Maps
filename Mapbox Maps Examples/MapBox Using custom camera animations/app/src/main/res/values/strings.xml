@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">MapBox animated weather data</string>
+    <string name="mapbox_access_token">pk.eyJ1IjoiYmFzYWt0dXlzdXoiLCJhIjoiY2xoZHB3emU0MHA3cDNkcDQ0dHluOW82ayJ9.cAYqG8Lt0f7Cr22mp31CZw</string>
+
+    <!--View Annotations-->
+    <string name="content_description_close">Close callout</string>
+
+    <!--On map click toast-->
+    <string name="tap_on_map_instruction">Tap anywhere on the map</string>
+
+    <!--Location-->
+    <string name="toggle_customised_puck">Toggle customised puck style</string>
+    <string name="toggle_custom_map_style">Toggle custom Map style</string>
+    <string name="toggle_custom_map_projection">Toggle custom Map projection</string>
+    <string name="location_disable_component">Disable Component</string>
+    <string name="location_enable_component">Enable Component</string>
+    <string name="location_show_bearing">Show bearing image</string>
+    <string name="location_hide_bearing">Hide bearing image</string>
+    <string name="location_stop_pulsing">Stop pulsing</string>
+    <string name="location_start_pulsing">Start pulsing</string>
+    <string name="location_disable_accuracy">Disable Accuracy Ring</string>
+    <string name="location_enable_accuracy">Enable Accuracy Ring</string>
+    <string name="toggle_opacity">Toggle opacity</string>
+    <string name="location_pulsing_puck_follow_accuracy_radius">Pulsing follow accuracy Ring</string>
+    <!--Location component Activity-->
+
+
+</resources>

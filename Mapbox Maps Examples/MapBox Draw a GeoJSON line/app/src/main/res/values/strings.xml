@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MapBox animated weather data</string>
+    <string name="mapbox_access_token">pk.eyJ1IjoiYmFzYWt0dXlzdXoiLCJhIjoiY2xoZHB3emU0MHA3cDNkcDQ0dHluOW82ayJ9.cAYqG8Lt0f7Cr22mp31CZw</string>
+
+    <!--View Annotations-->
+    <string name="content_description_close">Close callout</string>
+
+</resources>
